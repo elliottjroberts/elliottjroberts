@@ -4,7 +4,7 @@
 - :clipboard: I'm currently actively applying to software apprenticeships and acheiving a high grade at my current apprenticeship!
 - 🔨 My most recent project is: [FCC-Technical-Documentation](https://github.com/elliottjroberts/FCC-Technical-Documentation)
 - 🌱 I’m currently learning about Javascript algorithms and data structures.
-- 📫 How to reach me: elliottj.fr@gmail.com
+- 📫 How to reach me: elliottjamesroberts@gmail.com
 - 💬 Ask me about my motorcycle.
 - ⚡ Fun fact: I have travelled to 25 countries! 
 
