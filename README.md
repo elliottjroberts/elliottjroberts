@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Elliott</h1>
 <h3 align="center">I am a self taught developper</h3>
 
-- 🔨 My most recent project is: [FCC-Technical-Documentation](https://github.com/elliottjroberts/FCC-Technical-Documentation)
+- 🔨 My most recent project is: [CompletedTask](https://github.com/elliottjroberts/compeltedtask)
 - 🌱 I’m currently learning about Javascript algorithms and data structures.
 - 📫 How to reach me: elliottjamesroberts@gmail.com
 - 💬 Ask me about my motorcycle.
