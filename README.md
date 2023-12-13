@@ -3,7 +3,6 @@
 
 - 🔨 My most recent project is: [CompletedTask](https://github.com/elliottjroberts/compeltedtask)
 - 🌱 I’m currently learning about Javascript algorithms and data structures.
-- 📫 How to reach me: elliottjamesroberts@gmail.com
 - 💬 Ask me about my motorcycle.
 - ⚡ Fun fact: I have travelled to 25 countries! 
 
